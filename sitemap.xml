@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:63148/2020-06-07-blog3/</loc>
+    <lastmod>2020-06-07T23:38:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/categories/</loc>
+    <lastmod>2020-06-07T23:38:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/categories/category1/</loc>
+    <lastmod>2020-06-07T23:38:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/categories/category2/</loc>
+    <lastmod>2020-06-07T23:38:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/</loc>
+    <lastmod>2020-06-07T23:38:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/post/</loc>
+    <lastmod>2020-06-07T23:38:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/tags/tag1/</loc>
+    <lastmod>2020-06-07T23:38:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/tags/tag2/</loc>
+    <lastmod>2020-06-07T23:38:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/tags/</loc>
+    <lastmod>2020-06-07T23:38:13+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/2020-06-07-blog2/</loc>
+    <lastmod>2020-06-07T23:37:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/page1/</loc>
+    <lastmod>2018-01-01T20:35:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/page/</loc>
+    <lastmod>2018-01-01T20:35:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/categories/test/</loc>
+    <lastmod>2018-01-01T20:35:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/tags/blockquote/</loc>
+    <lastmod>2017-12-18T18:44:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/2017-12-18-from-ops-to-devops/</loc>
+    <lastmod>2017-12-18T18:44:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/license/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:63148/tags/license/</loc>
+  </url>
+  
+</urlset>
