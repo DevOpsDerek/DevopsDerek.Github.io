@@ -6,10 +6,44 @@
     <description>Recent content on DevOpsDerek Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2018 20:35:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 23:52:19 +0100</lastBuildDate>
     
 	<atom:link href="http://devopsderek.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Blog</title>
+      <link>http://devopsderek.github.io/2020-06-09-my-first-blog/</link>
+      <pubDate>Tue, 09 Jun 2020 23:52:19 +0100</pubDate>
+      
+      <guid>http://devopsderek.github.io/2020-06-09-my-first-blog/</guid>
+      <description>&lt;h1 id=&#34;what-to-expect&#34;&gt;What to expect&lt;/h1&gt;
+&lt;p&gt;I know this should probably be on an about page or the first page of the blog, but I wanted to get my first blog out of the way. This blog will be about a few things that I want to focus on initially, but will likely expand over time, or perhaps get a bit more focussed. I will focus mostly on technology blogs with a sprinkle of the below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DevOps Technologies&lt;/li&gt;
+&lt;li&gt;Professional Development ideas&lt;/li&gt;
+&lt;li&gt;Some personal stuff, including my dogs, and my own life experience.&lt;/li&gt;
+&lt;li&gt;Tips on dealing with stress, impostor syndrome, and how it&amp;rsquo;s affected me through my career.&lt;/li&gt;
+&lt;li&gt;World problems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h2&gt;
+&lt;p&gt;Hello, my name is Derek Campbell, and I try and go with DevOpsDerek as a &amp;ldquo;personal brand.&amp;rdquo; Sorry, that sounds a little egotistical but we all need to develop one in some way or another. You can find me hanging out on &lt;a href=&#34;https://twitter.com/DevOpsDerek&#34;&gt;Twitter&lt;/a&gt;, and generally, that&amp;rsquo;s the best way to contact me.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a Scottish man based just outside of Glasgow, and I live with my wife and my two chocolate labradors. I like technology, particularly DevOps and Automation technologies. I love quadcopters, dogs, dog walks, reading, football, cars, DIY, and generally just tinkering and learning stuff in my spare time. I do spend a good bit of time on the Sofa as well as watching Netflix, films, and all sorts of documentaries.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m about as Scottish as it gets, unfortunately, so what that means I am a haggis eating, caber tossing, kilt-wearing, whiskey-drinking aficionado.&lt;/p&gt;
+&lt;h2 id=&#34;work-and-motives&#34;&gt;Work and motives&lt;/h2&gt;
+&lt;p&gt;I work as a CI/CD Architect at &lt;a href=&#34;https://octopus.com&#34;&gt;Octopus Deploy&lt;/a&gt; as part of the Customer Success team, and I am based just outside of Glasgow, Scotland. I work with some of Octopus&amp;rsquo;s largest customers and also help write content that helps the users of Octopus. This blog holds my own opinions, ideas, and content, and it won&amp;rsquo;t be part of my work at Octopus.&lt;/p&gt;
+&lt;p&gt;I tend to be more of a speaker than a writer, and I&amp;rsquo;ve presented in a few countries and several cities around the UK. I&amp;rsquo;ll be writing about a range of topics freely and may split this over time into multiple websites, but now, it will be on what I mentioned previously. I want to increase my blogging skills over time, and I will likely look back at this first blog and cringe, much like I do when I see old PowerShell scripts I&amp;rsquo;ve written in the past. We&amp;rsquo;ve all been there, no doubt.&lt;/p&gt;
+&lt;p&gt;Occasionally I may write about Octopus Deploy and some of the cool things it does, and my aim is only to educate you and also have a place for me to write cool stuff down over time and reflect on it.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;I come from an Ops background and have been doing DevOps before I even knew what it was. DevOps isn&amp;rsquo;t always about being a developer, writing the best code, and it&amp;rsquo;s more about being open, honest, and direct with people while building and fostering a better culture between Development and Operations. I am a big fan of describing DevOps as Dev+Ops, and roles being defined as DEVops for Developers in DevOps, and devOPS for Operation focussed DevOps Engineers.&lt;/p&gt;
+&lt;p&gt;I worked seven years in London, 3 in Melbourne, and a small-time in Singapore, but have also consulted and spoke in a bunch of other countries. I moved back to Scotland a few years back and have never looked back.&lt;/p&gt;
+&lt;p&gt;During my career I&amp;rsquo;ve done many things starting in a Help Desk in Glasgow, System Administrator in a technical agency in Hammersmith, a System Architect in a Digital Design agency, Head of Technical Services in Melbourne, DevOps Lead, a Solution Architect and then I moved back to the UK to start my own IT consultancy contracting, and made the jump to Octopus Deploy in 2018 as a CI/CD Architect.&lt;/p&gt;
+&lt;h2 id=&#34;frequency&#34;&gt;Frequency&lt;/h2&gt;
+&lt;p&gt;I am going to aim to write a blog a week, and hopefully more often, and some may be quite long, and others shorter. I may extend this out to vlogging if I can find the time. The quality of the blogs may be higher and lower, depending on what I have on at work and in my personal life. Yes, it&amp;rsquo;s ok to have a persona life in technology.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Hopefully, you found this educational and happy to get the first blog out of the way.&lt;/p&gt;
+&lt;p&gt;Until next time, I bid you a good day!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Individual Page</title>
